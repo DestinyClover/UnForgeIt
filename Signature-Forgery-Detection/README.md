@@ -1,4 +1,4 @@
-# Artificial_intelligence_project_IMG2019
+# UnForgeIt: a signature detection ML model
 
 
 ### Details of folder is as follows -

@@ -1,4 +1,4 @@
-# UnForgeIt: a signature detection ML model
+# UnForgeIt: a signature forgery detection ML model
 
 
 ### Details of folder is as follows -

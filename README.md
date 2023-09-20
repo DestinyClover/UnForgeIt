@@ -1,5 +1,5 @@
 
-# UNForgeIt
+# UnForgeIt
 Traditional methods for signature verification often rely on manual inspection, which is time-consuming, subjective, and prone to human errors. In recent years, the advent of machine learning techniques has shown promise in automating signature forgery detection, offering a more efficient and objective approach. The Project will help to identify whether a given signature is real or forged. 
 
 #### -- Project Status: Active
